@@ -1,0 +1,65 @@
+.logo{
+  width: 75px;
+  height: 60px;
+}
+.logo-text{
+  font-family: 'lobster', cursive;
+  font-size: 45px;
+  font-weight: 200px;
+  font-weight: lighter;
+  color: #ff827b;
+}
+.nav {
+  font-size: 20px;
+  color: #61aee6;
+}
+.jumbotron .container-fluid{
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+  background-color: transparent;
+}
+.hero-img{
+  width: 100%;
+  height: 60vh;
+  background: url('../img/hero.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+.hero-text{
+  text-transform: uppercase;
+  color: #fff;
+  text-align: center;
+  font-size: 32px !important;
+  font-weight: 400;
+  padding-top: 4.80%;
+}
+.thumbnail{
+  background-color: #e7e7e7;
+}
+.featured-text{
+  text-transform: uppercase;
+}
+.adopt-text{
+  text-align: center;
+}
+.thumbnail{
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+.footer-logo{
+  width:110px;
+  border-right: 1px solid #333333;
+}
+.footer{
+  margin-top: 50px;
+  min-width: 90px;
+  background-color: black;
+}
+.footer-image{
+  border-right:
+}
+<!--isf dfasd dfasdf jidjfaskd-->
+/*fdsaf*/
+/*this is how you make a comment really cannot spell for shit bro */
